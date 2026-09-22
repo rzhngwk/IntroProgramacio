@@ -1,0 +1,8 @@
+# Ignorar executables i binaris
+*. exe
+*. o
+*. out
+# Ignorar fitxers de configuraci ó d ’ editors ( brossa o)
+. vscode /
+. idea /
+. DS_Store
