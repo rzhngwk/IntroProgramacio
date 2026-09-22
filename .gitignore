@@ -1,8 +1,8 @@
 # Ignorar executables i binaris
-*. exe
-*. o
-*. out
+*.exe
+*.o
+*.out
 # Ignorar fitxers de configuraci ó d ’ editors ( brossa o)
-. vscode /
-. idea /
-. DS_Store
+.vscode /
+.idea /
+.DS_Store
